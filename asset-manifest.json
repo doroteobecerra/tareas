@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tareas/static/css/main.91c56e97.css",
+    "main.js": "/tareas/static/js/main.68f08b8a.js",
+    "index.html": "/tareas/index.html",
+    "main.91c56e97.css.map": "/tareas/static/css/main.91c56e97.css.map",
+    "main.68f08b8a.js.map": "/tareas/static/js/main.68f08b8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91c56e97.css",
+    "static/js/main.68f08b8a.js"
+  ]
+}
