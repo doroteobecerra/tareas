@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tareas/static/css/main.91c56e97.css",
-    "main.js": "/tareas/static/js/main.68f08b8a.js",
-    "index.html": "/tareas/index.html",
-    "main.91c56e97.css.map": "/tareas/static/css/main.91c56e97.css.map",
-    "main.68f08b8a.js.map": "/tareas/static/js/main.68f08b8a.js.map"
+    "main.css": "/tarea/static/css/main.91c56e97.css",
+    "main.js": "/tarea/static/js/main.68f08b8a.js",
+    "index.html": "/tarea/index.html",
+    "main.91c56e97.css.map": "/tarea/static/css/main.91c56e97.css.map",
+    "main.68f08b8a.js.map": "/tarea/static/js/main.68f08b8a.js.map"
   },
   "entrypoints": [
     "static/css/main.91c56e97.css",
